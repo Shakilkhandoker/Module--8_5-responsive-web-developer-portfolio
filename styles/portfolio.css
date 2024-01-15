@@ -229,6 +229,9 @@ textarea {
     nav {
         flex-direction: column;
     }
+    .banner div{
+        margin-right: 50%;
+    }
     .header, .main, .footer {
         margin: 0 15px;
     }
