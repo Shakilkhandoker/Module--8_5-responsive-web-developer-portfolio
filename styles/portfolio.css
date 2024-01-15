@@ -228,7 +228,9 @@ textarea {
     .banner,
     nav {
         flex-direction: column;
-
+    }
+    .header, .main, .footer {
+        margin: 0 15px;
     }
 
     #what-i-do-description {
